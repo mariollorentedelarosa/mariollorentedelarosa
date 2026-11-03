@@ -62,12 +62,7 @@ Control de stock por almacén, ciclo de vida de pedidos y validaciones de negoci
 
 `Java` `Spring Boot` `REST` `PostgreSQL`
 
-### 📅 Plataforma de reservas *(en desarrollo)*
-Sistema de reservas con **control de concurrencia** para evitar el overbooking, desplegado en **AWS**.
 
-`Java` `Spring Boot` `AWS` `Concurrencia`
-
----
 
 ## 🌱 Ahora mismo
 

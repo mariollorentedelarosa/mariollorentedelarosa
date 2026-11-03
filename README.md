@@ -68,7 +68,6 @@ Control de stock por almacén, ciclo de vida de pedidos y validaciones de negoci
 
 - 📖 Curso de Spring Boot
 - 🎯 Preparando la certificación Oracle Java SE Developer
-- 🛰️ Participando en el NASA Space Apps Challenge 2026
 
 ---
 
